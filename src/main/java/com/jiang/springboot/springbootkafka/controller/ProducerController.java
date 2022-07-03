@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
+ * kafka生产者
  * @author jiang
  * @create 2022-07-03-1:33 下午
  */

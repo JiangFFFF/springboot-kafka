@@ -4,6 +4,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.kafka.annotation.KafkaListener;
 
 /**
+ * kafka消费者
  * @author jiang
  * @create 2022-07-03-1:43 下午
  */
